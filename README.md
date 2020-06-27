@@ -1,2 +1,5 @@
-# machine-curiosity
-exploring questions using data science
+
+# Machine Curiosity
+
+Exploring questions using data science
+
